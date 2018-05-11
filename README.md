@@ -2,7 +2,7 @@
 CS232 (A.I.) Assignment 10 @ Wellesley College, according to Joel Grus's tutorial. 
 https://www.youtube.com/watch?v=o64FV-ez6Gw
 
-#Components:
+# Components:
 1. Tensors
 2. Loss Functions
 3. Layers
